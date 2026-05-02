@@ -1,8 +1,8 @@
 theme = TokyoNight
 macos-option-as-alt = true
 opacity=0.8
-# pane move like vim
-keybind = alt+h=goto_split:left
-keybind = alt+j=goto_split:down
-keybind = alt+k=goto_split:up
-keybind = alt+l=goto_split:right
+# move pane
+keybind = ctrl+b>h=goto_split:left
+keybind = ctrl+b>j=goto_split:down
+keybind = ctrl+b>k=goto_split:up
+keybind = ctrl+b>l=goto_split:right
