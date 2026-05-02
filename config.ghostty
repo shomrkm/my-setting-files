@@ -1,6 +1,6 @@
 theme = TokyoNight
 macos-option-as-alt = true
-opacity=0.8
+background-opacity = 0.8
 # move pane
 keybind = ctrl+b>h=goto_split:left
 keybind = ctrl+b>j=goto_split:down
